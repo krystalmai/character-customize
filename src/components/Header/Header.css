@@ -1,0 +1,12 @@
+.page-title {
+  text-transform: uppercase;
+  /* transform: translate(-50%, -50%); */
+  font-size:50px;
+	letter-spacing:0.1em;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: white  ;
+  text-shadow: 
+						2px 2px #ff1f8f,
+					6px 6px #0baf94;
+}

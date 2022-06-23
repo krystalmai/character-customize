@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  margin: 5vh 5vw;
+}
+@media screen and (min-width: 850px ) {
+  main {
+    display: flex;
+    justify-content: space-around;
+  }
+  .avt-wrapper {
+    flex-basis: 40%;
+  }
+  .option-box {
+    flex-basis: 60%;
+  }
+}
+@media screen and (max-width: 849px) {
+  main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .lists {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+}
+@media screen and (max-width: 530px) {
+  .page-title {
+    font-size: 2em;
+  }
+}
+@media screen and (max-width: 320px) {
+  .page-title {
+    font-size: 1.8em;
+  }
+}
