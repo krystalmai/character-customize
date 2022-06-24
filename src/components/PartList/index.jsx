@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import "./PartList.css";
 import Part from "../Part";
 function PartList(props) {
