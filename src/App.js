@@ -1,6 +1,6 @@
 import Header from "./components/Header";
 import "./App.css";
-import React, { useState, useEffect } from "react";
+import React, { useState} from "react";
 import Avatar from "./components/Avatar";
 import PartList from "./components/PartList";
 
