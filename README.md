@@ -1,6 +1,6 @@
 # Character Customization 
 
-## Descrition
+## Description
 
 Build an avatar character by choosing features from lists of features (facial features, hair, outfits,..) or click on Randomize to see the magic happen.
 
